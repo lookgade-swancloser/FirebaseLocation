@@ -1,4 +1,4 @@
-# parentcare
+# ParentCare
 
 A new Flutter application.
 
